@@ -1,5 +1,9 @@
 # Duo Folds: setup guide
 
+Counts how many times you unfold your iPhone Duo, with a small home-screen widget.
+
+![The DUO FOLDS widget on an iPhone Duo home screen, showing 8 unfolds today and 38 in total](images/homescreen.jpg)
+
 Two Scriptable scripts:
 
 | Script | What it does |
